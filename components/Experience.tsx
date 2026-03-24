@@ -20,7 +20,7 @@ const experiences = [
     tags: ["Java", "Spring Boot", "JPA", "REST", "OData", "Prometheus", "Grafana", "Jenkins"],
   },
   {
-    title: "Associate Developer (Android)",
+    title: "Associate Developer (iOS and Android)",
     company: "SAP Labs",
     period: "Aug 2023 – Mar 2025",
     location: "Bangalore",
